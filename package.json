@@ -1,0 +1,29 @@
+{
+  "name": "mock6_deployment_json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YashSharma7746/Mock6_deployment_json.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YashSharma7746/Mock6_deployment_json/issues"
+  },
+  "homepage": "https://github.com/YashSharma7746/Mock6_deployment_json#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "json-serve": "^0.1.0",
+    "json-server": "^0.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
